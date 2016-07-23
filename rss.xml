@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Traveler, foodie and wine lover]]></title>
         <description><![CDATA[Traveler, foodie and wine lover]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://fernandovela.mx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 23:08:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jul 2016 23:20:01 GMT</lastBuildDate>
+        <atom:link href="http://fernandovela.mx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Breathtaking view from Mount Hollywood 🙌🏼 . #LAStory . #QueTodoElMundoVuele . #FlyLAX]]></title>
+            <description><![CDATA[<article><h1>Breathtaking view from Mount Hollywood 🙌🏼 . #LAStory . #QueTodoElMundoVuele . #FlyLAX</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f99b3ba6de55bb9f8bb549b2f02c557aba87d429.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BCzMthds4V6/?taken-by=fernando_vela&amp;hl=en</link>
+            <guid isPermaLink="false">9c8ffbaf-d3cf-4e23-8068-b943c819b191</guid>
+            <pubDate>Sat, 23 Jul 2016 23:20:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Solo lo mejor]]></title>
             <description><![CDATA[<article><h1>Solo lo mejor</h1><p>Todo este año ha estado lleno de campañas en muchas otras redes sociales, pero mi medio de acción es Instagram, como traveler y foodie mi experiencia se basa en visitar los lugares que estén de moda pero sobre todo que tengan una excelente propuesta y excelente calidad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aae2eb1083612aa9517ce642438adfca878ed4e5.jpg"></article>]]></description>
