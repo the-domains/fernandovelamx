@@ -1,16 +1,16 @@
-typography_spectrum: 0.1408504107967019
+typography_spectrum: 0.8067614734172821
 color:
-  brandStrength: 0.5026616659015417
-  lightness: 0.9089295060839504
-  saturation: 0.9710787120275199
-  rhythmicContrast: 0.6301839489024132
+  brandStrength: 0.29626623447984457
+  lightness: 0.8944379098247737
+  saturation: 0.5541297339368612
+  rhythmicContrast: 0.08240762422792614
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
-layout_spectrum: 0.6625690357759595
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.7525974228046834
 author:
   name: 'Fernando Vela '
   email: info@fernandovela.mx
