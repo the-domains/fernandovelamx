@@ -4,8 +4,15 @@
         <description><![CDATA[El Blog de Fernando Vela]]></description>
         <link>http://www.fernandovela.mx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 04:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 04:19:20 GMT</lastBuildDate>
         <atom:link href="http://www.fernandovela.mx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29ef5e78-cc34-4d57-841b-17c149b35f19.jpg">]]></description>
+            <link>http://www.fernandovela.mx/fd1509c1-7296-4e10-aa1c-7075be549e59/index.html</link>
+            <guid isPermaLink="false">fd1509c1-7296-4e10-aa1c-7075be549e59</guid>
+            <pubDate>Mon, 25 Jul 2016 04:19:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd6181ad-9c99-4695-8143-2e7ba889bc54.jpg">]]></description>
