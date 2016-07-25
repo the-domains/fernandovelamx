@@ -1,4 +1,3 @@
-layout_spectrum: 0.6625690357759595
 typography_spectrum: 0.1408504107967019
 color:
   brandStrength: 0.5026616659015417
@@ -11,5 +10,9 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+layout_spectrum: 0.6625690357759595
+author:
+  name: 'Fernando Vela '
+  email: info@fernandovela.mx
 name: El Blog de Fernando Vela
-title: 'Traveler, foodie and wine lover'
+title: El Blog de Fernando Vela
