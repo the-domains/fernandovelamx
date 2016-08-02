@@ -1,4 +1,4 @@
-typography_spectrum: 0.956179142696783
+typography_spectrum: 0.6620109335053712
 color:
   brandStrength: 0.37330130487680435
   lightness: 0.7005437486805022
@@ -10,7 +10,7 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.7842222126200795
+layout_spectrum: 0.48185096168890595
 author:
   name: 'Fernando Vela '
   email: info@fernandovela.mx
